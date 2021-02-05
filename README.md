@@ -1,7 +1,7 @@
 ### HEY HEY HEY YAS 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiraken0817&show_icons=true&theme=dracula)  
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=hiraken0817)
+[Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=hiraken0817)
 ![](https://komarev.com/ghpvc/?username=hiraken0817&color=brightgreen)
 
 <!--
