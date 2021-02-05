@@ -1,4 +1,5 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiraken0817&show_icons=true)![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=hiraken0817)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiraken0817&show_icons=true)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=hiraken0817&langs_count=3)
 ![](https://komarev.com/ghpvc/?username=hiraken0817&color=brightgreen)
 
 <!--
