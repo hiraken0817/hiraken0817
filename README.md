@@ -4,7 +4,7 @@ Hi,I'm Kenta Hirao,a passionate student from Japanese！
 
 🔭 I’m currently working on 
   
-  [![Readme Card](https://github.com/hiraken0817/Instamodoki)](https://github.com/hiraken0817/Instamodoki)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hiraken0817&repo=instamodoki&theme=monokai)](https://github.com/hiraken0817/Instamodoki)
   
 🌱 I’m currently learning Swift
 
