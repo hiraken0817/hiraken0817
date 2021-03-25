@@ -2,11 +2,11 @@
 
 Hi,I'm Kenta Hirao,a passionate student from Japanese！
 
-- 🔭 I’m currently working on 
+🔭 I’m currently working on 
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/hiraken0817/Instamodoki)
+  [![Readme Card](https://github.com/hiraken0817/Instamodoki)](https://github.com/hiraken0817/Instamodoki)
   
-- 🌱 I’m currently learning Swift
+🌱 I’m currently learning Swift
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=hiraken0817&count_private=true&show_icons=true&theme=monokai" />
